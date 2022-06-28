@@ -3,7 +3,7 @@ Zhonghan Xie
 23' Public Administration  
 Sun Yat-sen University  
 Stata Python R  
-Interested in educational policies, economics of education & applied data analysis in social science.  
+Interested in education policies, economics of education & applied data analysis in social science.  
 Also in Kyoani...  
 
 
